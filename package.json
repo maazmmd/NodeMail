@@ -1,0 +1,11 @@
+{
+  "name": "Node_Email",
+  "version": "1.0.0",
+  "description": "Sending Email in Node JS",
+  "main": "nodemail.js",
+  "author": "Mohammed Maaz",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^4.4.1"
+  }
+}
