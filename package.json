@@ -2,10 +2,19 @@
   "name": "Node_Email",
   "version": "1.0.0",
   "description": "Sending Email in Node JS",
-  "main": "nodemail.js",
+  "main": "emailClient.js",
   "author": "Mohammed Maaz",
   "license": "MIT",
   "dependencies": {
-    "nodemailer": "^4.4.1"
+    "arraylist": "^0.1.0",
+    "camaro": "^2.2.8",
+    "cheerio": "^1.0.0-rc.2",
+    "file-name": "^0.1.0",
+    "hashmap": "^2.3.0",
+    "nodemailer": "^4.4.1",
+    "path": "^0.12.7",
+    "process": "^0.11.10",
+    "stringbuilder": "0.0.11",
+    "thread-sleep": "^2.0.0"
   }
 }
