@@ -1,4 +1,4 @@
-# Node email Engine
+# Node Email Engine
 ******************************************************************************************************************
 
 Core File : emailHelper.js  
@@ -59,7 +59,7 @@ Run the bat File present in projectSmileAPI Folder.
 
 #### If folder is not extracted in D:\ drive then path should be changed in Node Program and again new jar File should be exported using IDE (Eclipse or IntelliJ).  
 #### Bat file cannot be run in Mac and Unix OS.  
-#### If Mac and Unix is being used step with ###Tags should be followed.  
+#### If Mac and Unix is being used then u should run from Terminal
 
 *****************************************************************************************************************
 If any doubts Kindly contact Mohammed Maaz  
