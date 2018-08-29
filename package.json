@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "arraylist": "^0.1.0",
-    "camaro": "^2.2.8",
+    "camaro": "^3.0.8",
     "cheerio": "^1.0.0-rc.2",
     "file-name": "^0.1.0",
     "hashmap": "^2.3.0",
